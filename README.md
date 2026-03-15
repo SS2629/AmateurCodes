@@ -1,4 +1,4 @@
-# AmateurCodes
-These are a few codes which i practiced for learning fundamentals in C++. 
+# First
+This is my first github repository.
 <br>
-The most basic ones.
+Author: Surbhi Singh
